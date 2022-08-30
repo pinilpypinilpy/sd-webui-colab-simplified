@@ -1,8 +1,4 @@
 # Simple Colab version of the amazing stable diffusion web ui repo located [here](https://github.com/hlky/stable-diffusion) and based off of the original Colab found [here](https://github.com/altryne/sd-webui-colab)
-See the original repo for all the features
-
-This repo is for the maintenance of the Simplified Colab script itself
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb)
 
 ## Super simple to get started
